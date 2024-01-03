@@ -10,7 +10,11 @@ main {
   width: 80%; 
   margin: 0 auto; 
   padding: 20px; 
-  text-align: center;
+
 }
 
-li {list-style: none;}
+li {list-style: circle;}
+
+h1 {
+  text-align: center;
+}
