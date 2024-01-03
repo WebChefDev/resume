@@ -18,3 +18,7 @@ li {list-style: circle;}
 h1 {
   text-align: center;
 }
+footer {
+  text-align: end;
+  padding: 50px;
+}
